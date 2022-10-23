@@ -1,4 +1,5 @@
 print("assingment 1")
+print("hacktober_fest")
 def myfun(a):
     s=0
     while a>0:
