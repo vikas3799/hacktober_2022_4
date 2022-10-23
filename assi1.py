@@ -8,4 +8,5 @@ def myfun(a):
         a=a//10
     return s
 a=int(input("Enter a number:- "))
+print("hello")
 print(myfun(a))
