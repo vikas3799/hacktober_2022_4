@@ -1,5 +1,6 @@
 print("assingment 1")
 print("hacktober_fest")
+print("world ifs fun")
 def myfun(a):
     s=0
     while a>0:
@@ -10,3 +11,5 @@ def myfun(a):
 a=int(input("Enter a number:- "))
 print("hello")
 print(myfun(a))
+
+
